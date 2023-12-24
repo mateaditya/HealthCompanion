@@ -42,22 +42,27 @@ Notifications:
 Firebase Cloud Messaging (FCM) for real-time notifications.
 Prototype Demonstration
 Screens:
+
+
 Medication Schedule:
 
 Calendar-like interface displaying medicine scheduling information.
 Customization alternatives for reminders.
+
+
 Health Dashboard:
 
 Real-time show of vital signs and symptoms synced from the wearable tool.
 Graphical illustration of historic fitness records.
+
+
 Refill Reminders:
 
 Notifications for upcoming medication refills.
-Quick hyperlinks to neighborhood pharmacies for seamless refills.
-GitHub Repository
-Link: HealthCompanion GitHub Repository
 
-README: Contains instructions on going for walks the prototype and additional assignment details.
+Quick hyperlinks to neighborhood pharmacies for seamless refills.
+ 
+ 
 
 Screenshots: Included to exhibit the prototype's capability.
 
@@ -76,5 +81,6 @@ Rapid Prototyping:
 
 Working prototype with responsive and consumer-pleasant design.
 
-Conclusion
+Conclusion:
+
 HealthCompanion strives to beautify the overall properly-being of seniors through addressing important aspects of drugs control and health monitoring. The challenge leverages present day technologies to simplify each day routines and improve the fine of existence for individuals like Sunita Sharma.
