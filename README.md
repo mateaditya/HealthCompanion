@@ -64,9 +64,9 @@ Quick hyperlinks to neighborhood pharmacies for seamless refills.
  
  
 
-Screenshots: Included to exhibit the prototype's capability.
+ 
 
-Evaluation Criteria
+ 
 
 Coding Skills:
 
@@ -79,8 +79,7 @@ Value Outcome:
 Clearly demonstrates the fantastic effect on Sunita's each day life and healthcare.
 Rapid Prototyping:
 
-Working prototype with responsive and consumer-pleasant design.
-
+ 
 Conclusion:
 
 HealthCompanion strives to beautify the overall properly-being of seniors through addressing important aspects of drugs control and health monitoring. The challenge leverages present day technologies to simplify each day routines and improve the fine of existence for individuals like Sunita Sharma.
